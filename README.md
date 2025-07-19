@@ -8,6 +8,7 @@ Recentemente, adquiri experiência como profissional de suporte Service Desk N1 
 </p>
 
 <H2>Novas tecnologias </H2>
+
 ![HTML](https://skillicons.dev/icons?i=python,mysql,html,css,js,aws)
 
 
