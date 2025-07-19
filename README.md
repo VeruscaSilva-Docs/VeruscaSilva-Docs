@@ -7,6 +7,9 @@ Recentemente, adquiri experiência como profissional de suporte Service Desk N1 
 <b>A tecnologia é minha paixão, Com ela eu me conecto ao mundo, Cada avanço me traz emoção, E me faz sentir mais profundo.</b>  
 </p>
 
+<H2>Novas tecnologias </H2>
+![HTML](https://skillicons.dev/icons?i=python,mysql,html,css,js,aws)
+
 
 ### Detalhes
 
