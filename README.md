@@ -2,7 +2,18 @@
 <p align="center">
  
 Olá! Meu nome é Verusca Schimmels,  sou formanda em Ciência da Computação pela Universidade Unicarioca Ao longo dos meus estudos universitários, tive a oportunidade de aprender conceitos importantes em programação, algoritmos, estrutura de dados e outras áreas relacionadas à tecnologia da informação. Além disso, participei de projetos acadêmicos que envolveram uma visão prática e experiência em trabalho em equipe.
-Recentemente, adquiri experiência como profissional de suporte Service Desk N1 na wide Digital, onde aprendi a solucionar problemas relacionados a  hardwares, a identificar e resolver problemas de rede, e trabalhar com clientes e usuários para garantir sua satisfação com o serviço. 
+
+Experiência com atendimento via chats, e-mails e ferramentas de chamados, incluindo ServiceNow, Service Desk e Flash Service Ipiranga, sempre priorizando a agilidade e a excelência no suporte ao usuário. Realizo testes e entregas de periféricos (monitores, mouses, teclados, docks), garantindo seu pleno funcionamento antes da liberação.
+
+Também atuo com instalação e configuração de dispositivos móveis (Android e iOS), redes Wi-Fi, backup com OneDrive, autenticação multifator (MFA) e habilitação de máquinas no Microsoft Azure. Realizei atualização de ativos via BDGC e gestão de demandas com foco em qualidade e eficiência.
+
+Sou movida por desafios e busco constantemente aprimorar minhas habilidades técnicas e interpessoais para entregar um suporte de alto nível.
+
+Recentemente concluí um curso de Análise de Dados com Python, oferecido pela Programaria, no qual desenvolvi habilidades práticas na manipulação, tratamento e visualização de dados. 
+
+Atenciosamente,
+Verusca Schimmels
+Contato: (21) 99415-1925
 
 <b>A tecnologia é minha paixão, Com ela eu me conecto ao mundo, Cada avanço me traz emoção, E me faz sentir mais profundo.</b>  
 </p>
